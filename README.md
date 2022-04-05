@@ -113,3 +113,4 @@ Details
   * [Verichains Public Audit Report - STMAN Vestings - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20STMAN%20Vestings%20-%20v1.0.pdf)
   * [Verichains Public Audit Report - MetaBomb Token - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20MetaBomb%20Token%20-%20v1.0.pdf)
   * [Verichains Public Audit Report - Mones Marketplace - v1.2.pdf](Verichains%20Public%20Audit%20Report%20-%20Mones%20Marketplace%20-%20v1.2.pdf)
+  * [Verichains Public Audit Report - Bingo Family Token - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20Bingo%20Family%20Token%20-%20v1.0.pdf)
