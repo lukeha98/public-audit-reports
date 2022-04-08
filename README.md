@@ -115,3 +115,4 @@ Details
   * [Verichains Public Audit Report - Mones Marketplace - v1.2.pdf](Verichains%20Public%20Audit%20Report%20-%20Mones%20Marketplace%20-%20v1.2.pdf)
   * [Verichains Public Audit Report - Bingo Family Token - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20Bingo%20Family%20Token%20-%20v1.0.pdf)
   * [Verichains Public Audit Report - Naga Token and Vesting - v1.2.pdf](Verichains%20Public%20Audit%20Report%20-%20Naga%20Token%20and%20Vesting%20-%20v1.2.pdf)
+  * [Verichains Public Audit Report - SnakeCity Token - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20SnakeCity%20Token%20-%20v1.0.pdf)
