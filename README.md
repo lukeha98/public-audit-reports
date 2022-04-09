@@ -118,3 +118,4 @@ Details
   * [Verichains Public Audit Report - SnakeCity Token - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20SnakeCity%20Token%20-%20v1.0.pdf)
   * [Verichains Public Audit Report - LGBT Token - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20LGBT%20Token%20-%20v1.0.pdf)
   * [Verichains Public Audit Report - LOOPStarter Smartcontract - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20LOOPStarter%20Smartcontract%20-%20v1.0.pdf)
+  * [Verichains Public Audit Report - OP3N Neighborheadz NFT - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20OP3N%20Neighborheadz%20NFT%20-%20v1.1.pdf)
