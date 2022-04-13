@@ -119,5 +119,5 @@ Details
   * [Verichains Public Audit Report - LGBT Token - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20LGBT%20Token%20-%20v1.0.pdf)
   * [Verichains Public Audit Report - LOOPStarter Smartcontract - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20LOOPStarter%20Smartcontract%20-%20v1.0.pdf)
   * [Verichains Public Audit Report - OP3N Neighborheadz NFT - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20OP3N%20Neighborheadz%20NFT%20-%20v1.1.pdf)
-  * [Verichains Public Audit Report - DeFiHorse Staking - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20DeFiHorse%20Staking%20-%20v1.0.pdf)
-  * [Verichains Public Audit Report - DeFiHorse Vesting - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20DeFiHorse%20Vesting%20-%20v1.0.pdf)
+  * [Verichains Public Audit Report - DeFiHorse Staking - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20DeFiHorse%20Staking%20-%20v1.0.pdf)
+  * [Verichains Public Audit Report - DeFiHorse Vesting - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20DeFiHorse%20Vesting%20-%20v1.0.pdf)
