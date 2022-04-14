@@ -121,3 +121,4 @@ Details
   * [Verichains Public Audit Report - OP3N Neighborheadz NFT - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20OP3N%20Neighborheadz%20NFT%20-%20v1.1.pdf)
   * [Verichains Public Audit Report - DeFiHorse Staking - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20DefiHorse%20Staking%20-%20v1.0.pdf)
   * [Verichains Public Audit Report - DeFiHorse Vesting - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20DefiHorse%20Vesting%20-%20v1.0.pdf)
+  * [Verichains Public Audit Report - AshWard Smartcontracts - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20AshWard%20Smartcontracts%20-%20v1.1.pdf)
