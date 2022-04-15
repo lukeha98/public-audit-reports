@@ -122,3 +122,4 @@ Details
   * [Verichains Public Audit Report - DeFiHorse Staking - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20DefiHorse%20Staking%20-%20v1.0.pdf)
   * [Verichains Public Audit Report - DeFiHorse Vesting - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20DefiHorse%20Vesting%20-%20v1.0.pdf)
   * [Verichains Public Audit Report - AshWard Smartcontracts - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20AshWard%20Smartcontracts%20-%20v1.1.pdf)
+  * [Verichains Public Audit Report - STMAN Vault - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20STMAN%20Vault%20-%20v1.0.pdf)
