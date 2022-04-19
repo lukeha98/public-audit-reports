@@ -125,3 +125,4 @@ Details
   * [Verichains Public Audit Report - STMAN Vault - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20STMAN%20Vault%20-%20v1.0.pdf)
   * [Verichains Public Audit Report - MadMonkeyGuide Token - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20MadMonkeyGuide%20Token%20-%20v1.0.pdf)
   * [Verichains Public Audit Report - MetaBomb Token - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20MetaBomb%20Token%20-%20v1.1.pdf)
+  * [Verichains Public Audit Report - SingSing Smartcontracts - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20SingSing%20Smartcontracts%20-%20v1.0.pdf)
