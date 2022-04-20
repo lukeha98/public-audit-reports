@@ -129,3 +129,4 @@ Details
   * [Verichains Public Audit Report - NFT5 RedBlackTreeLibrary - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20NFT5%20RedBlackTreeLibrary%20-%20v1.0.pdf)
   * [Verichains Public Audit Report - Owners Inc Smartcontract - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20Owners%20Inc%20Smartcontract%20-%20v1.1.pdf)
   * [Verichains Public Audit Report - RunTogether Token - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20RunTogether%20Token%20-%20v1.0.pdf)
+  * [Verichains Public Audit Report - MAoE Smartcontracts - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20MAoE%20Smartcontracts%20-%20v1.0.pdf)
