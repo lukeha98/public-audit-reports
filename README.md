@@ -135,3 +135,4 @@ Details
   * [Verichains Public Audit Report - Taureum Withdraw Smartcontracts - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20Taureum%20Withdraw%20Smartcontracts%20-%20v1.0.pdf)
   * [Verichains Public Audit Report - House of Kibaa NFT Sale Smartcontracts - v1.2.pdf](Verichains%20Public%20Audit%20Report%20-%20House%20of%20Kibaa%20NFT%20Sale%20Smartcontracts%20-%20v1.2.pdf)
   * [Verichains Public Audit Report - Yogain Token - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20Yogain%20Token%20-%20v1.0.pdf)
+  * [Verichains Public Audit Report - BikeEarn Token - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20BikeEarn%20Token%20-%20v1.0.pdf)
