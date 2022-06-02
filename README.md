@@ -139,3 +139,4 @@ Details
   * [Verichains Public Audit Report - IStep Token - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20IStep%20Token%20-%20v1.0.pdf)
   * [Verichains Public Audit Report - ZKPhoto - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20ZKPhoto%20-%20v1.1.pdf)
   * [Verichains Public Audit Report - IStep Token - v1.2.pdf](Verichains%20Public%20Audit%20Report%20-%20IStep%20Token%20-%20v1.2.pdf)
+  * [Verichains Public Audit Report - STE Token - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20STE%20Token%20-%20v1.1.pdf)
