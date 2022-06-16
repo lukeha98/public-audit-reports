@@ -141,3 +141,4 @@ Details
   * [Verichains Public Audit Report - IStep Token - v1.2.pdf](Verichains%20Public%20Audit%20Report%20-%20IStep%20Token%20-%20v1.2.pdf)
   * [Verichains Public Audit Report - STE Token - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20STE%20Token%20-%20v1.1.pdf)
   * [Verichains Public Audit Report - CyberEight Smartcontracts - v1.3.pdf](Verichains%20Public%20Audit%20Report%20-%20CyberEight%20Smartcontracts%20-%20v1.3.pdf)
+  * [Verichains Public Audit Report - Krabots Token - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20Krabots%20Token%20-%20v1.0.pdf)
