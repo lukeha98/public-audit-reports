@@ -143,4 +143,4 @@ Details
   * [Verichains Public Audit Report - CyberEight Smartcontracts - v1.3.pdf](Verichains%20Public%20Audit%20Report%20-%20CyberEight%20Smartcontracts%20-%20v1.3.pdf)
   * [Verichains Public Audit Report - Krabots Token - v1.2.pdf](Verichains%20Public%20Audit%20Report%20-%20Krabots%20Token%20-%20v1.0.pdf)
   * [Verichains Public Audit Report - DEPP MOVE Token - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20DEPP%20MOVE%20Token%20-v1.0.pdf)
-  * [Verichains Public Audit Report - Football Battle Smartcontracts - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20Football%20Battle%20Smartcontracts%20-%20v1.0.pdf)
+  * [Verichains Public Audit Report - Football Battle Smartcontracts - v1.2.pdf](Verichains%20Public%20Audit%20Report%20-%20Football%20Battle%20Smartcontracts%20-%20v1.2.pdf)
