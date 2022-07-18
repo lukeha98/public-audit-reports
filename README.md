@@ -150,3 +150,4 @@ Details
   * [Verichains Public Audit Report - InShape Token - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20InShape%20Token%20-%20v1.0.pdf)
   * [Verichains Public Audit Report - SlimeRoyale SCE Token - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20SlimeRoyale%20SCE%20Token%20-%20v1.1.pdf)
   * [Verichains Public Audit Report - SlimeRoyale SRG Token - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20SlimeRoyale%20SRG%20Token%20-%20v1.1.pdf)
+  * [Verichains Public Audit Report - Goen Smartcontracts - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20Goen%20Smartcontracts%20-%20v1.0.pdf)
