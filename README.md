@@ -152,3 +152,4 @@ Details
   * [Verichains Public Audit Report - SlimeRoyale SRG Token - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20SlimeRoyale%20SRG%20Token%20-%20v1.1.pdf)
   * [Verichains Public Audit Report - Goen Smartcontracts - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20Goen%20Smartcontracts%20-%20v1.0.pdf)
   * [Verichains Public Audit Report - Winery Smartcontracts - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20Winery%20Smartcontracts%20-%20v1.1.pdf)
+  * [Verichains Public Audit Report - Chintai Smartcontracts - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20Chintai%20Smartcontracts%20-%20v1.2.pdf)
