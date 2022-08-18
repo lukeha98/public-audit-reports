@@ -157,3 +157,4 @@ Details
   * [Verichains Public Audit Report - Astra Protocol - v1.2.pdf](Verichains%20Public%20Audit%20Report%20-%20Astra%20Protocol%20-%20v1.2.pdf)
   * [Verichains Public Audit Report - Runnow Smartcontracts - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20Runnow%20Smartcontracts%20-%20v1.1.pdf)
   * [Verichains Public Audit Report - Dradex Smartcontracts - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20Dradex%20Smartcontracts%20-%20v1.0.pdf)
+  * [Verichains Public Audit Report - Tago Token - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20Tago%20Token%%20-%20v1.0.pdf)
