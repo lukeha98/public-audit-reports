@@ -155,3 +155,4 @@ Details
   * [Verichains Public Audit Report - Chintai Smartcontracts - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20Chintai%20Smartcontracts%20-%20v1.2.pdf)
   * [Verichains Public Audit Report - RunTogether Token v2 - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20RunTogether%20Token%20v2%20-%20v1.0.pdf)
   * [Verichains Public Audit Report - Astra Protocol - v1.2.pdf](Verichains%20Public%20Audit%20Report%20-%20Astra%20Protocol%20-%20v1.2.pdf)
+  * [Verichains Public Audit Report - Runnow Smartcontracts - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20Runnow%20Smartcontracts%20-%20v1.1.pdf)
