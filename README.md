@@ -161,3 +161,4 @@ Details
   * [Verichains Public Audit Report - Yieldly Marketplace Smartcontracts - v1.0](Verichains%20Public%20Audit%20Report%20-%20Yieldly%20Marketplace%20Smartcontracts%20-%20v1.0.pdf)
   * [Verichains Public Audit Report - Microphone NFT Smartcontracts - v1.0](Verichains%20Public%20Audit%20Report%20-%20Microphone%20NFT%20Smartcontracts%20-%20v1.1.pdf)
   * [Verichains Public Audit Report - OKGToken and Vesting - v1.1](Verichains%20Public%20Audit%20Report%20-%20OKGToken%20and%20Vesting%20-%20v1.1.pdf)
+  * [Verichains Public Audit Report - Legend of RPS Token - v1.0](Verichains%20Public%20Audit%20Report%20-%20Legend%20of%20RPS%20Token%20-%20v1.0.pdf)
