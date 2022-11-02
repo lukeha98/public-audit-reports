@@ -169,3 +169,4 @@ Details
   * [Verichains Public Audit Report - Senspark Token - v1.0](Verichains%20Public%20Audit%20Report%20-%20Senspark%20Token%20-%20v1.0.pdf)
   * [Verichains Public Audit Report - DStarter Smartcontracts - v1.0](Verichains%20Public%20Audit%20Report%20-%20DStarter%20Smartcontracts%20-%20v1.0.pdf)
   * [Verichains Public Audit Report - Holdstation Mobile Wallet - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20Holdstation%20Mobile%20Wallet%20-%20v1.0.pdf)
+  * [Verichains Public Audit Report - Multichain Solana Router - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20Multichain%20Solana%20Router%20-%20v1.1.pdf)
